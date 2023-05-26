@@ -1,5 +1,5 @@
 Html, css, javascript & python dev
 
-discord server: discord.gg/leprocode
+Discord server: discord.gg/leprocode \n
 Website: https://leprocode.com
 
