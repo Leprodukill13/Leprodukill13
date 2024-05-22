@@ -1,6 +1,6 @@
 Html, css, javascript & python dev
 
-Discord server: discord.gg/leprocode
+https://t.me/leprodukill13
 
 Website: https://leprocode.com
 
